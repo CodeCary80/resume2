@@ -2,7 +2,7 @@
 
 ## About
 I want to be the programmer whose level is halfway between poppy li and Ian Grimm.
-![Selfie](https://imgur.com/a/jTIQr9j)
+![Selfie]([https://imgur.com/a/jTIQr9j](https://i.imgur.com/FCAszJK.png))
 
 ## Projects
 | Title | URL | Tech |
